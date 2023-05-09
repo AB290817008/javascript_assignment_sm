@@ -1,3 +1,5 @@
+//VARIABLES FOR STRING//
+
 // var username;
 // var myName = "Sadia Abbasi";
 // var message;
@@ -29,6 +31,7 @@
 
 // document.write("Yah! I am writing HTML content through JavaScript");
 
-var symbols = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+// var symbols = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 
-alert(symbols);
+// alert(symbols);
+
